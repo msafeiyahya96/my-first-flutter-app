@@ -1,6 +1,6 @@
-# first_app
+# My First Flutter Project
 
-A new Flutter project.
+This is the first Flutter project I made from the Flutter site, and I'm still in the process of learning to develop applications with Flutter.
 
 ## Getting Started
 
